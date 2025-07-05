@@ -1,0 +1,17 @@
+[
+    {
+        "name" : "Shirt",
+        "price" : "$25",
+        "pic" : "./images/Shirt.jpeg"
+    },
+    {
+        "name" : "Fan",
+        "price" : "$50",
+        "pic" : "./images/Fan.jpeg"
+    },
+    {
+        "name" : "Bottle",
+        "price" : "$10",
+        "pic" : "./images/Bottle.jpeg"
+    }
+]
